@@ -167,6 +167,13 @@ set(SOURCE_FILES
         src/hex/ZobristHash.cpp
         src/hex/ZobristHash.hpp
         src/hex/ZobristHashes.hpp
+        src/mohex/JoeHexEngine.cpp
+        src/mohex/JoeHexEngine.hpp
+        src/mohex/JoeHexMain.cpp
+        src/mohex/JoeHexPlayer.cpp
+        src/mohex/JoeHexPlayer.hpp
+        src/mohex/JoeHexProgram.cpp
+        src/mohex/JoeHexProgram.hpp
         src/mohex/MoHexEngine.cpp
         src/mohex/MoHexEngine.hpp
         src/mohex/MoHexMain.cpp
